@@ -1,0 +1,7117 @@
+[
+  {
+    "siret": "84392249300013",
+    "name": "CORETECH",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "81343950200028",
+    "name": "FRONTIER SAS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "13001045700013",
+    "name": "DIRECTION REGIONALE DE L'ENVIRONNEMENT DE L'AMENAGEMENT ET DU LOGEMENT NOUVELLE-AQUITAINE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "83390775100014",
+    "name": "RADIOACTIV'IT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44949627200021",
+    "name": "CAPIO RHONE-ALPES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38893526400340",
+    "name": "SUEZ RR IWS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31524980500146",
+    "name": "SCORI",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "30377298200029",
+    "name": "SARP INDUSTRIES",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33803085100046",
+    "name": "GENEVE OCCASION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55685027900051",
+    "name": "SECHE ALLIANCE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "77573481700395",
+    "name": "SOC ASSAINISSEMENT RATIONNEL ET POMPAGE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "02578032100052",
+    "name": "CARRIERES KLEBER MOREAU",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49402440900216",
+    "name": "GAIA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "25170190000036",
+    "name": "SYNDICAT MIXTE CYCLAD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34103985700337",
+    "name": "SARP SUD-OUEST",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "33004291200031",
+    "name": "CARROSSERIE  INDUSTRIELLE NIORTAISE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "18170003000016",
+    "name": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE ROCHEFORT ET DE SAINTONGE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "13000657000019",
+    "name": "DIRECTION REGIONALE DE L'ENVIRONNEMENT DE L'AMENAGEMENT ET DU LOGEMENT HAUTS-DE-FRANCE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "13000930100016",
+    "name": "DIRECTION REGIONALE DE L'ENVIRONNEMENT DE L'AMENAGEMENT ET DU LOGEMENT CENTRE-VAL DE LOIRE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "42126440900028",
+    "name": "DISLAUB",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "34804072600013",
+    "name": "SOC FORCE VAR",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "42383789700044",
+    "name": "LUMIVER",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "32914285500025",
+    "name": "METAUX 116 SOREVO ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "45123963600033",
+    "name": "REMONDIS ELECTRORECYCLING SAS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "43276414000138",
+    "name": "PAPREC D3E",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39150723300040",
+    "name": "ECO VALOR",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "44255070300023",
+    "name": "AUTOECO",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "44540215900039",
+    "name": "TERECOVAL",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "49213009100019",
+    "name": "SAS FRIGOPOLIS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "92722044200085",
+    "name": "GURDEBEKE SA",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "53743318700102",
+    "name": "CARRIERES ET MATERIAUX DU GRAND OUEST",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52531009000010",
+    "name": "MUSCINESI BOUTEILLE RECYCLAGE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "37835707300014",
+    "name": "SARL GUY DENGASC ET FILS",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "44366882700043",
+    "name": "RECYCLING SYSTEM BOX",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "44360554800066",
+    "name": "KERLOG",
+    "category": "Producteur"
+  },
+  {
+    "siret": "77572139200360",
+    "name": "SEVIA",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "48774196900033",
+    "name": "ECOLOGIC",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "47898966800023",
+    "name": "COLGATE-PALMOLIVE INDUSTRIEL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55201258500170",
+    "name": "SGD S.A.",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34269631700011",
+    "name": "FINSA FRANCE SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32987901900035",
+    "name": "VM AUTOMATERIELS",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "55214412300031",
+    "name": "TETRA PAK CLOSURES FRANCE SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "92582007800010",
+    "name": "BIC RASOIRS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "56980189700616",
+    "name": "KSB SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48362308800042",
+    "name": "WEYLCHEM LAMOTTE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32718049300014",
+    "name": "SATECO",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39846750600026",
+    "name": "B T V A",
+    "category": "Producteur"
+  },
+  {
+    "siret": "50171941300046",
+    "name": "GASCOGNE BOIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42110670900569",
+    "name": "SCHNEIDER ELECTRIC FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39980202400139",
+    "name": "BRICARD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49935990900029",
+    "name": "ARTOS",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "80838077800015",
+    "name": "TECUMSEH BARENTIN",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41096483700026",
+    "name": "VERMILION REP SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30515177100048",
+    "name": "INITIATIVES DECORATION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53051270600017",
+    "name": "NEW RAW MATERIALS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "53868438200012",
+    "name": "ASS SPORTIVE DES CAVALIERS DE JOUR ET NUIT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39092249000011",
+    "name": "WELDOM",
+    "category": "Producteur"
+  },
+  {
+    "siret": "98552031100012",
+    "name": "RAMONDIN FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "77568845002033",
+    "name": "CONSEIL NATIONAL PROFESSIONS AUTOMOBILE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38408141000035",
+    "name": "CHIMIE MACHINES SERVICES HIGH TECH",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "42074322100046",
+    "name": "CONDAT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33376017100012",
+    "name": "STE FRANCAISE GALVANOPLASTIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30401281800049",
+    "name": "FLOW CONTROL TECHNOLOGIES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33405518300035",
+    "name": "SECHE ECO INDUSTRIES",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38454528100030",
+    "name": "TRIADIS SERVICES",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31988527300023",
+    "name": "",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "82102975800017",
+    "name": "",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31055272400026",
+    "name": "SA ELECTRODEPOSITION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42192827600045",
+    "name": "ENT. PERAUDEAU-DURBECQ",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48525469200018",
+    "name": "SOLAMAT-MEREX",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "34278683700027",
+    "name": "SCHIEVER DISTRIBUTION",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "78466864200019",
+    "name": "FEDERATION FRANCAISE DU BATIMENT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38845773100031",
+    "name": "SAGE DRS",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "31245611400031",
+    "name": "CENTRE DE DEPOLLUTION INDUS LORRAIN",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "41958560900011",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844213631",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38967501800029",
+    "name": "ORTEC ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "53035811800012",
+    "name": "E & S CHIMIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49343990500073",
+    "name": "FDG GROUP",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33305028400186",
+    "name": "PAPREC FRANCE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "41472962400018",
+    "name": "DUBOURG AUTOMOBILES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38348263500588",
+    "name": "AFM RECYCLAGE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "53488446500012",
+    "name": "EASY LEVAGE ET VALORISATION",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "46020064500022",
+    "name": "L ELECTROLYSE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "44360554800041",
+    "name": "",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "38348263500232",
+    "name": "AFM RECYCLAGE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "84812700700013",
+    "name": "WASTEBOX FRANCE",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "43476328000022",
+    "name": "VALORIDEC BTP",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "64080189000024",
+    "name": "SOCIETE TRAITEMENT CHIMIQUE METAUX",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "63672012000105",
+    "name": "ENTREPRISE MARC SA",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "40337839100011",
+    "name": "GOUIN*LAURENT/",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "90635018600043",
+    "name": "SOC MONTERELAISE ASSAINISSEM BUFFETEAU",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "85001946400013",
+    "name": "CODE EN STOCK",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "52147258900022",
+    "name": "PERFEST CONSEIL",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "37940691100014",
+    "name": "THEOBALD AUTOMOBILES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34305695800048",
+    "name": "JOHNSON CONTROLS INDUSTRIES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33105490800024",
+    "name": "BERN ETIC SARL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42886506700022",
+    "name": "2 B RECYCLAGE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33303497300029",
+    "name": "ARC EN CIEL RECUPERATION",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "44461925802482",
+    "name": "RTE RESEAU DE TRANSPORT D ELECTRICITE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40321003200104",
+    "name": "VEOLIA ENVIRONNEMENT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38044894400070",
+    "name": "VINCI CONSTRUCTION FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44977566700024",
+    "name": "G2 DEVELOPPEMENT G2D",
+    "category": "Producteur"
+  },
+  {
+    "siret": "56206223200045",
+    "name": "VALENTIN",
+    "category": "Producteur"
+  },
+  {
+    "siret": "24070071600030",
+    "name": "COMMUNAUTE DE COMMUNES DU VAL D'AY",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "41773033000012",
+    "name": "LRA LAURENT RABY ASSAINISSEMENT",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "81360322200023",
+    "name": "DASHDOC",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "71362039100019",
+    "name": "ENTR GENE FUZIER ET LAMBERT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34358505500019",
+    "name": "SOFINPAR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48889457700045",
+    "name": "CEME PROCESS INDUSTRIEL",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "50112072900022",
+    "name": "BOLLIG & KEMPER FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43991405200055",
+    "name": "OCR RHONE ALPES",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "84883802500015",
+    "name": "EURL TAXIS 347",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44331392900012",
+    "name": "ALPES FLEXIBLES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51212357100022",
+    "name": "",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "45650053700018",
+    "name": "DALKIA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "45650053704275",
+    "name": "DALKIA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49858249300017",
+    "name": "",
+    "category": "Négociant"
+  },
+  {
+    "siret": "49955693400028",
+    "name": "DEPOLIA",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38014942700136",
+    "name": "SPIE BATIGNOLLES FONDATIONS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "50493419100025",
+    "name": "HENSEL RECYCLING FRANCE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31963279000857",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33818576200055",
+    "name": "TREDI",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "52532423200020",
+    "name": "SDBA",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "48068074300022",
+    "name": "PRESTA'CASSE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "38770481000036",
+    "name": "SEROP INDUSTRIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52240128000022",
+    "name": "MP3D SANITATION",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "48195545800023",
+    "name": "DTP2I",
+    "category": "Producteur"
+  },
+  {
+    "siret": "81232991000010",
+    "name": "BOULANGERIE AU 148",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "02578032100029",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30634946500105",
+    "name": "SOTREMA",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "52839028900031",
+    "name": "COLLECO",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "49349142700032",
+    "name": "LASER GAME EQUIPEMENT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52270857700039",
+    "name": "STEFAN RECYCLAGE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "32334697300049",
+    "name": "KMG ULTRA PURE CHEMICALS SAS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "78601893700015",
+    "name": "FEDEREC OUEST",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33856725800011",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39063651200068",
+    "name": "SOC DE LOCATION ET DE BENNES",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "32623391300028",
+    "name": "SERPOL",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "71203540100090",
+    "name": "VERTIV INDUSTRIAL SYSTEMS SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31998277300024",
+    "name": "SOCIETE GUADELOUPEENNE DE BETON",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40450228800016",
+    "name": "FORM EDIT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52922174900029",
+    "name": "TOTAL RAFFINAGE FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41244251900507",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35082778800042",
+    "name": "ATOS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38893526400357",
+    "name": "SUEZ RR IWS",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "24590042800013",
+    "name": "COMMUNAUTE URBAINE DE DUNKERQUE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "71368073400017",
+    "name": "CONDAT SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51788699000038",
+    "name": "ECHOLINE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43728120700013",
+    "name": "GPA 26",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "44803414000013",
+    "name": "T.R.I.S.",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "43045991700026",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201051",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44374815700049",
+    "name": "MYLAN LABORATORIES SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35281941100039",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "81456095900029",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51270962700016",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35352535500080",
+    "name": "TRIALP",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "34398937200010",
+    "name": "BIG BENNES",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "50967463600014",
+    "name": "TRUCKS MAINTENANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84095175000016",
+    "name": "EMOH",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "24440040400129",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "50798584400046",
+    "name": "SUEZ RV OSIS NORD",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31112719500056",
+    "name": "YVES MADELINE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "46850009500020",
+    "name": "MILLE",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "40872028200016",
+    "name": "FRESENIUS VIAL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "80833267003751",
+    "name": "",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "80833267002407",
+    "name": "SNCF",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "33332934000025",
+    "name": "NORD ASSAINISSEMENT",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "84395850500011",
+    "name": "GME ENROBES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32801563100034",
+    "name": "ROTOFRANCE IMPRESSION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38752431700014",
+    "name": "SOCIETE NOUVELLE CLEAN 38",
+    "category": "Producteur"
+  },
+  {
+    "siret": "13000810500012",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "70202111400112",
+    "name": "DERICHEBOURG PROPRETE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "47829429100016",
+    "name": "RECYDIS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31882678100102",
+    "name": "LA CORBEILLE BLEUE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "85070540100014",
+    "name": "POLLART*JULIEN/",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "35408025100086",
+    "name": "ECOPUR",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "44011762000375",
+    "name": "GRTGAZ",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38033842600014",
+    "name": "TRANS AUTO COMMERCE DE L'OCCASION EN TOUS GENRES 32",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "81019109800039",
+    "name": "BREGEON*DENIS/",
+    "category": "Producteur"
+  },
+  {
+    "siret": "37801121700049",
+    "name": "DS RECYCLAGE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "92722008700047",
+    "name": "ETABLISSEMENTS MOUTON",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "37930272200069",
+    "name": "RENAUD*PASCAL CLAUDY/",
+    "category": "Négociant"
+  },
+  {
+    "siret": "31261148600027",
+    "name": "CONVIVIO-PRO",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41811813900033",
+    "name": "OPAL OUTILLAGE PRESSE - AUZOU LAVOINE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "37941102800044",
+    "name": "SABENA TECHNICS FNI",
+    "category": "Producteur"
+  },
+  {
+    "siret": "02578032100102",
+    "name": "CARRIERES KLEBER MOREAU",
+    "category": "Producteur"
+  },
+  {
+    "siret": "02578032100136",
+    "name": "CARRIERES KLEBER MOREAU",
+    "category": "Producteur"
+  },
+  {
+    "siret": "02578032100094",
+    "name": "CARRIERES KLEBER MOREAU",
+    "category": "Producteur"
+  },
+  {
+    "siret": "02578032100128",
+    "name": "CARRIERES KLEBER MOREAU",
+    "category": "Producteur"
+  },
+  {
+    "siret": "02578032100151",
+    "name": "CARRIERES KLEBER MOREAU",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39913831200018",
+    "name": "GALAXIE FRIGORIFIQUE REUNIONNAISE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "38454528100055",
+    "name": "TRIADIS SERVICES",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "24720034800115",
+    "name": "COMMUNAUTE DE COMMUNES DU PAYS FLECHOIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "76320006000021",
+    "name": "ENTREPRISE GAUTHIER",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39191888500024",
+    "name": "SECHE TRANSPORTS",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "04565045400023",
+    "name": "THEYS ASSAINISSEMENT",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "50461549300047",
+    "name": "ALGORA ENVIRONNEMENT",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "33818576200063",
+    "name": "TREDI",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "41351213800020",
+    "name": "TANK SOLUTIONS NORMANDIE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "33927887100019",
+    "name": "DECHETS RECUPERATION INDUSTRIELS ET MENAGERS DE MONTECH",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33818576200071",
+    "name": "TREDI",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "48047015202661",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34855241500070",
+    "name": "COFIDUR EMS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31019914600047",
+    "name": "SOC NOUVELLE D'AFFINAGE DES METAUX",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "44222656900030",
+    "name": "",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "31407775100027",
+    "name": "SITREM",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "83283907000014",
+    "name": "LIBRA DATA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "08548044000040",
+    "name": "SOCIETE ORLEANAISE D'ASSAINISSEMENT",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "44041547900029",
+    "name": "TRAITEMENT DES BATTERIES DE LA REUNION (A.T.B.R.)",
+    "category": "Producteur"
+  },
+  {
+    "siret": "54206292200043",
+    "name": "CHIESI SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "73612020500025",
+    "name": "KADANT LAMORT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34004392600088",
+    "name": "40-30",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49031262600024",
+    "name": "ELO ENERGIE",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "53070853600038",
+    "name": "ALME ENVIRONNEMENT",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "42921726800037",
+    "name": "B S ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "48953305900122",
+    "name": "ALLIANCE ENVIRONNEMENT EXPLOITATION",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "71262071500169",
+    "name": "SUEZ RV MEDITERRANEE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "41529484200018",
+    "name": "RECUPERATION SERVICES AUTO ROCHIS",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "44460844209548",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55208131735626",
+    "name": "ELECTRICITE DE FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49910640900026",
+    "name": "EFOR",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "44452491200060",
+    "name": "AZURTECH ENVIRONNEMENT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "61662009200083",
+    "name": "REVIVAL",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "50533855800016",
+    "name": "LIBOURNE HYGIENE",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "38956699300017",
+    "name": "AVENIR COMPLEXAGE SERVICE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "05480214500109",
+    "name": "TRANSPORTS ET ENTRETIEN PHOCEENS",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "38014135800024",
+    "name": "PENA ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "81527887400012",
+    "name": "AGENCE DE CONTROLE TECHNIQUE IMMOBILIER ET DE FORMATION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41100783400038",
+    "name": "DIAGAMTER",
+    "category": "Producteur"
+  },
+  {
+    "siret": "56209399700061",
+    "name": "FRANCHE COMTE TRAVAUX PUBLICS",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "34147065600099",
+    "name": "TELEDYNE E2V SEMICONDUCTORS SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "81938543600020",
+    "name": "LENGLET*JUDITH LUCIE MARIE/",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "44017364900011",
+    "name": "CITADELLE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84526698000018",
+    "name": "LAFON*LIONEL/",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83233607700017",
+    "name": "PROSERVE DASRI",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "47884866600010",
+    "name": "APPRO-SERVICE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35600000001870",
+    "name": "LA POSTE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34967725200026",
+    "name": "",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "43523314300039",
+    "name": "LES JARDINS DE L'ORBRIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49312988600203",
+    "name": "DALKIA BIOGAZ",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34296889800045",
+    "name": "ROUBY INDUSTRIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84873449700011",
+    "name": "COMMEX",
+    "category": "Producteur"
+  },
+  {
+    "siret": "15400016000130",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "81152073300015",
+    "name": "BAKHIYI*RACHIDA/",
+    "category": "Producteur"
+  },
+  {
+    "siret": "11006801200050",
+    "name": "MINISTERE DE LA TRANSITION ECOLOGIQUE ET SOLIDAIRE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "06504687952147",
+    "name": "",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38020726600046",
+    "name": "LENOIR SERVICES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49071412800017",
+    "name": "TERRE D'OC EVOLUTION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32795619900027",
+    "name": "INDUSTRIE PAPETERIE CHARENTAISE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "82903595500014",
+    "name": "TRADEVA",
+    "category": "Négociant"
+  },
+  {
+    "siret": "99823900800027",
+    "name": "",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "56211034600169",
+    "name": "TERREAL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33783424600015",
+    "name": "HOUDELOT NEGOCE SARL",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "32337343100051",
+    "name": "ACSE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34791402000099",
+    "name": "FIVES CONVEYING",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84258195100014",
+    "name": "GARAGE ROSSAT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34435244800445",
+    "name": "SOGEA RHONE-ALPES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "82780516900022",
+    "name": "MIRA*PATRICK PHILIPPE GABRIEL/",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "80023273800016",
+    "name": "AXBIOTEC",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49062619900031",
+    "name": "EMERAUDE DEPOLLUTION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "50178965500021",
+    "name": "INDICIA PRODUCTION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38427974100027",
+    "name": "THIVILLIER JEROME",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34256234500039",
+    "name": "CMS INDUSTRIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "81157003500014",
+    "name": "TRANSPORTS ARTON CHRISTOPHE",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "37981848700041",
+    "name": "EVJ SCET",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "81505104000013",
+    "name": "ARRAGON*LUCILLE/",
+    "category": "Négociant"
+  },
+  {
+    "siret": "38259766400012",
+    "name": "IFOPSE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38259766400020",
+    "name": "IFOPSE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "79208109300017",
+    "name": "CONDAMIN SIGNALISATION MARQUAGE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35326120900061",
+    "name": "SOC CONDAMIN NETTOYAGE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "80538288400015",
+    "name": "CONDAMIN TECHNOLOGIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84922143700015",
+    "name": "NEW WAY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40064129600035",
+    "name": "INDRA SAS",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "38089172100025",
+    "name": "SARL MECANIQUE ET SERVICES",
+    "category": "Négociant"
+  },
+  {
+    "siret": "72204385800074",
+    "name": "AGC GLASS FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "82024325100015",
+    "name": "TEGOS SYSTEMS LTD",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "34516642500040",
+    "name": "PRISMAFLEX INTERNATIONAL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "56211521200036",
+    "name": "JACOBI CARBONS FRANCE",
+    "category": "Négociant"
+  },
+  {
+    "siret": "43392522900026",
+    "name": "KTK FRANCE SEATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "95450607701201",
+    "name": "RENAULT TRUCKS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "47903680800034",
+    "name": "AGILYA SOLUTIONS",
+    "category": "Négociant"
+  },
+  {
+    "siret": "81082397100025",
+    "name": "FIGURE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42066961600021",
+    "name": "LA PROTECTION INCENDIE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "83403248400026",
+    "name": "BUILDING SERVICES MANAGEMENT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33051678200027",
+    "name": "E R C E I",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30821885800089",
+    "name": "SOCIETE NOUVELLE ASSAINISSEMENT VIDANGES EGOUTS - BILLARD",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "30821885800048",
+    "name": "SOCIETE NOUVELLE ASSAINISSEMENT VIDANGES EGOUTS - BILLARD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33100471300037",
+    "name": "THIERRY CHEFNEUX ASSAINISSEMENT",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "69162065200046",
+    "name": "L AUXILIAIRE IMMOBILIER",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "30832792300014",
+    "name": "SOCIETE D'EXPLOITATION DE TRANSPORT ET EVACUATION D'ORDURES",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "87892854800014",
+    "name": "TOUTES LES BATTERIES.COM",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "52954156700028",
+    "name": "HOUSSEN*ISMAEL/",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "43827703000534",
+    "name": "ENDEL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43827703000591",
+    "name": "ENDEL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48432466000089",
+    "name": "CNN MCO",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43827703000542",
+    "name": "ENDEL",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "48803489300013",
+    "name": "ESCARMENT*YANN FRANCOIS EDOUAR/",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31176579600017",
+    "name": "ETS J MARTIN",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "66558007200197",
+    "name": "BONDUELLE EUROPE LONG LIFE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39941667600076",
+    "name": "PHILIPPE TOURNAIRE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33189000400111",
+    "name": "CURAGE INDUSTRIEL DE GONESSE",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "41498957400028",
+    "name": "CAKTUS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "35062883000027",
+    "name": "CREATIONS HALLOISES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32764134600033",
+    "name": "TRADIVAL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40910170600219",
+    "name": "UPERGY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40448410700028",
+    "name": "CILA SAS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "41140264700027",
+    "name": "HIMOREX",
+    "category": "Producteur"
+  },
+  {
+    "siret": "54205079400115",
+    "name": "MONTUPET",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "40496955200011",
+    "name": "MARTEK POWER F",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84249761200015",
+    "name": "OBIOSEED",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51158920200023",
+    "name": "ECOLOGIC PETROLEUM RECOVERY",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39236795900039",
+    "name": "LES TROIS CHENES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844203269",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844209043",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844203277",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844203699",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844203723",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44478651104420",
+    "name": "GRDF",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844203871",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83280057700013",
+    "name": "PRUNIERES MASSIF CENTRAL",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "44460844203806",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844206304",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844209076",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844209084",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844209142",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844206312",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844209191",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844209209",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844213896",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844209225",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844209233",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844203939",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844203947",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844204044",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844204028",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844204036",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844204069",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844204101",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844204135",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844204168",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844204176",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844212575",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844212450",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844212740",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "80054749900023",
+    "name": "PV CYCLE FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "81761178300017",
+    "name": "ASSOCIATION POUR LA PLAISANCE ECO-RESPONSABLE POUR LES PRODUITS PYROTECHNIQUES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40829501200038",
+    "name": "BIOGENIE EUROPE SAS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "42258207200035",
+    "name": "SOC DE COLLECTE ET DE RECYCLAGE DES EQUIPEMENTS ELECTRIQUES ET ELECTRONIQUES SA",
+    "category": "Négociant"
+  },
+  {
+    "siret": "83373765300018",
+    "name": "ALTAROAD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42248908800035",
+    "name": "COREPILE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "56262077300803",
+    "name": "SINIAT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "56262077300548",
+    "name": "SINIAT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "56262077300423",
+    "name": "SINIAT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "53849587000031",
+    "name": "ECO-MOBILIER",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31566921800028",
+    "name": "SOCIETE DE TRAITEMENT D'EFFLUENTS INDUSTRIELS SOTREFI",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "78665007700047",
+    "name": "OURRY",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "48787244200024",
+    "name": "NAVARRA TERRASSEMENTS SPECIAUX",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30123960400061",
+    "name": "COMPAGNIE DE TERRASSEMENTS GENERAUX",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "38872967500032",
+    "name": "HOLDING ERIC LEDEUX",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "79946473000016",
+    "name": "MAUVIEL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52392066800036",
+    "name": "SAS LPNMCCL",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "53740637300036",
+    "name": "VALDELIA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31348433900038",
+    "name": "NEGO METAL",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "42415510900012",
+    "name": "LABEL PIECE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40263640100018",
+    "name": "AUTO PIECES 43",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39106609900014",
+    "name": "SOCIETE EXPLOITATION ETABLIS MEMPONTEL",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "32129777200014",
+    "name": "RENE JORY",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "51925335500027",
+    "name": "SENERVAL",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "78981369800022",
+    "name": "GEBERIT PRODUCTION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "56262077300811",
+    "name": "SINIAT",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "44450679400023",
+    "name": "REICHSTETT MATERIAUX",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "42498881400036",
+    "name": "PLANCHER ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "56262077300605",
+    "name": "SINIAT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38870057700025",
+    "name": "IMPACT ENVIRONNEMENT SERVICES",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "49448722600016",
+    "name": "TRANS NATURAL",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "41382431900037",
+    "name": "AVENIR DECONSTRUCTION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42083758500033",
+    "name": "RESOLEST",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "88555028500013",
+    "name": "TOLERIE FOREZIENNE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48864935100019",
+    "name": "SARL BENNES 13",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "38014154900010",
+    "name": "PENA METAUX SA",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "84286303700011",
+    "name": "WASTE MARKETPLACE",
+    "category": "Négociant"
+  },
+  {
+    "siret": "25300286900019",
+    "name": "SYNDICAT MIXTE TRAITEMENT ORDURES MENAGERES ET ASSIMILES",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "84260463900026",
+    "name": "LF RECYCLAGE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "43002667400019",
+    "name": "DECHETS SERVICES 12",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "84231765300017",
+    "name": "ALPHA DEMOLITION 33",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39393608300020",
+    "name": "SARL LAGARRIGUE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "46420237300153",
+    "name": "VEOLIA PROPRETE AQUITAINE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "66735008600035",
+    "name": "MAILLOT SAS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "78999935600056",
+    "name": "VIAM",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "78999935600049",
+    "name": "VIAM",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "78999935600023",
+    "name": "VIAM",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "78999935600064",
+    "name": "VIAM",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "51480457400036",
+    "name": "BIOGAZ DE GAILLON",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "50060625600021",
+    "name": "ATHALYS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "42439454200015",
+    "name": "AHC ASSAINISSEMENT HYGIENE ET CONFORT",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "35270647700051",
+    "name": "VANHEEDE ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "34340353102114",
+    "name": "COLLECTES VALORISATION ENERGIE DECHETS - COVED",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "47846802800020",
+    "name": "TRANSDEV MOBILITES DU SAINT QUENTINOIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48060408100020",
+    "name": "LABOSPHERE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39128259700015",
+    "name": "CHIMIREC DEVELOPPEMENT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34517948500031",
+    "name": "CHIMIREC-PPM",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39933934000016",
+    "name": "CHIMIREC-EST",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31018842000114",
+    "name": "CHIMIREC",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31018842000031",
+    "name": "CHIMIREC",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31018842000098",
+    "name": "CHIMIREC",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33360111000013",
+    "name": "CHIMIREC MALO",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33360111000021",
+    "name": "CHIMIREC MALO",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39390306700014",
+    "name": "CHIMIREC CENTRE EST",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39390306700089",
+    "name": "CHIMIREC CENTRE EST",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33328490900020",
+    "name": "CHIMIREC-VALRECOISE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33328490900046",
+    "name": "CHIMIREC-VALRECOISE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38336924600046",
+    "name": "CHIMIREC-SOCODELI",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38336924600020",
+    "name": "CHIMIREC-SOCODELI",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "40025889300017",
+    "name": "CHIMIREC DELVERT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "41808924900027",
+    "name": "CHIMIREC-NOREC",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "45275129000019",
+    "name": "CHIMIREC MASSIF-CENTRAL",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "34445139800020",
+    "name": "CHIMIREC DARGELOS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "34498486900026",
+    "name": "APROCHIM",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "79345713600018",
+    "name": "CHIMIREC CORSICA",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "79897955500017",
+    "name": "ECO-LOGISTIQUE REEMPLOI",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "48803585800023",
+    "name": "AGAINUS",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "38182489500019",
+    "name": "ETS PIERRE VOLLE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "43973805500029",
+    "name": "CONSULTANT DECHETS SPECIAUX SERVICES",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39242361200010",
+    "name": "ASTRHUL",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39242361200028",
+    "name": "ASTRHUL",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "49776352400038",
+    "name": "SOLAIRGIES",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "41895342800012",
+    "name": "ARETZIA",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "82103694400030",
+    "name": "HLC33",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "45126196000038",
+    "name": "CHAUDRONI MECANIQUE INDUST SCE - CMIS",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "45126196000020",
+    "name": "CHAUDRONI MECANIQUE INDUST SCE - CMIS",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "49022412800010",
+    "name": "AUDIGIER RECYCLAGE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "32903542200057",
+    "name": "MBK INDUSTRIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83111167900013",
+    "name": "LE JARDIN DE DJENA",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "84361538600011",
+    "name": "ENTREPRISE DE VALORISATION ADAPTEE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "49874504100026",
+    "name": "C.E.R.H.",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43898583000019",
+    "name": "BIONATIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34804072600062",
+    "name": "SOC FORCE VAR",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "30998050600013",
+    "name": "MECAJET",
+    "category": "Producteur"
+  },
+  {
+    "siret": "71708028700013",
+    "name": "VOIRIN PERE ET FILS DE GESTION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84033997200019",
+    "name": "DADIAG",
+    "category": "Producteur"
+  },
+  {
+    "siret": "00712006600027",
+    "name": "SOCIETE LECLERC IMPRIMERIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200012",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41518343300028",
+    "name": "CENTRE LANDAIS DE TRANSIT DES DECHETS INDUSTRIELS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "35401179300016",
+    "name": "SCEA LA FOLIE BROUCHY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "18170002200120",
+    "name": "CHAMBRE DE COMMERCE ET D'INDUSTRIE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "53807763700014",
+    "name": "NIORT TERMINAL PROMOTION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "18170002200070",
+    "name": "CHAMBRE DE COMMERCE ET D'INDUSTRIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "75407186800014",
+    "name": "A.J.T.P",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33913274800163",
+    "name": "ALLIANCE PARTENAIRES GRAPHIQUES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "37791706700342",
+    "name": "EQIOM",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "48222277500033",
+    "name": "ENVIE 2E AQUITAINE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "95651249500345",
+    "name": "CALOR S A",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34804072600054",
+    "name": "SOC FORCE VAR",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "45242788300015",
+    "name": "AGRI PLEVY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "78990938900049",
+    "name": "MAT'ILD",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "48047015201143",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200517",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201150",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201481",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201168",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202505",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201598",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200509",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202190",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202240",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201044",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200426",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200525",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200822",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200046",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200129",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201820",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200210",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201028",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200335",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201531",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201192",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200228",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200673",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201127",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200947",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201655",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200541",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200434",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200442",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202216",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200095",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202588",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200632",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202703",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201572",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200475",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201614",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201002",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201432",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200293",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200608",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201564",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200236",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201374",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201515",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200111",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200467",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200160",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201424",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41196288900027",
+    "name": "CENTRE AUTO DE LESCAR PAU CAPAULES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200301",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201671",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201416",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200806",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201317",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200863",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200830",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200087",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200202",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200731",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201523",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200137",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200962",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201093",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201085",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200020",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200764",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200814",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200574",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201036",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53401238000026",
+    "name": "CAVITROLLES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201747",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201630",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200954",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200707",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200996",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200350",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200103",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200061",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200152",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201499",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201705",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201366",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200251",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200418",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201408",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201622",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201259",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200053",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200558",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201069",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200699",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200343",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200640",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200590",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200582",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39081838300023",
+    "name": "CENTRE AUTO DE NIORT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200889",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201291",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200368",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200566",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201713",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200400",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202570",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201507",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201689",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200772",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200491",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200194",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201333",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202778",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201556",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201101",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201119",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200780",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201275",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200269",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201754",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200038",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201176",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201465",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200616",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201838",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200376",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201580",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201218",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201663",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200723",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200905",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "45005932400027",
+    "name": "CENTRE AUTO DE MANOSQUE - CAMANOSQUE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200657",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201267",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200384",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200624",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200244",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200459",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201341",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201283",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200749",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201606",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201895",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201226",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201473",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201853",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201010",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201390",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200327",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51184230400020",
+    "name": "CENTRE AUTO DE VIGNEUX-CAVIGNEUX",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201937",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202091",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201325",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200988",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201739",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53485984800028",
+    "name": "CALIVRY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200913",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200970",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200178",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201945",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200681",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201242",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200145",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200392",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53486624900020",
+    "name": "CAMORTEAU",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201200",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200319",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200756",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202067",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201911",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200285",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200079",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201697",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201135",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202737",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201077",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200665",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200897",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200939",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201234",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201903",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201770",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201812",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200715",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201796",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201440",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201887",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201804",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201788",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202109",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201986",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201879",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "75378065900029",
+    "name": "CAGUILERS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201762",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201994",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202364",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201960",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202000",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "75380168700025",
+    "name": "CABAILLEUL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202026",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202018",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202133",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51415976300028",
+    "name": "CENTRE AUTO DE BIZANOS-CABIZANOS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202117",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202042",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53397409300023",
+    "name": "CAVIERZON",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202125",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202141",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202158",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202166",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "75378073300022",
+    "name": "CADOLE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202174",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202455",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202208",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202257",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202224",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202232",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202315",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202273",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202265",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202299",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202281",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202331",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202372",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202323",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202356",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202307",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202471",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202380",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202398",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202422",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202430",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202414",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202463",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202448",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202497",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202489",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202513",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202521",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202539",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202562",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202554",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202547",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202596",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202612",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202604",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202638",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202646",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202653",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202679",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015201929",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202349",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202695",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40301597700024",
+    "name": "ALGOA SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015200848",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202687",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202729",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202828",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202745",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202752",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202760",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202786",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202802",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202893",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202836",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202844",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202851",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202877",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202935",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202927",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202885",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202901",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40301597700040",
+    "name": "ALGOA SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202869",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48047015202794",
+    "name": "NORAUTO FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44378045700034",
+    "name": "STMI",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33800904600156",
+    "name": "MENISSEZ PREMIUM",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "41087595900018",
+    "name": "SATI",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38183085000206",
+    "name": "PAPREC GRAND-OUEST",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "43368390100014",
+    "name": "SOMMAUTO",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83517170300019",
+    "name": "NET SERVICES YACHTING",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "38453821100044",
+    "name": "SCP MARIE LAURE VIEL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49808091000033",
+    "name": "GS",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "40064155100108",
+    "name": "MONACO MARINE FRANCE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "39437070400030",
+    "name": "DELTA NET",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48855484100012",
+    "name": "DELTA 3 D",
+    "category": "Producteur"
+  },
+  {
+    "siret": "37861920900281",
+    "name": "XPO MAINTENANCE FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "80064667100019",
+    "name": "MATTHIEU PANTEL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "71262071500045",
+    "name": "SUEZ RV MEDITERRANEE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "41327856500028",
+    "name": "CORODIS SARL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38173482100030",
+    "name": "ASS RECUP BOISSIERE REINSERT EMPLOI SOLI",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "40362172500031",
+    "name": "SARL GARDETTE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "37870267401001",
+    "name": "NATURE ET DECOUVERTES SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "37885121600010",
+    "name": "CARAMBOLAGE 59",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "44460844203830",
+    "name": "ENEDIS",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "48523483500018",
+    "name": "SARPI LA TALAUDIERE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "77566345300055",
+    "name": "ALKOR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39789401500023",
+    "name": "ETABLISSEMENTS FERNANDES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38254974900044",
+    "name": "J MOTTARD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "72980070600065",
+    "name": "PLACOPLATRE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "88344564500012",
+    "name": "PARADIGMES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "82107202200022",
+    "name": "CERGA",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "30247561100083",
+    "name": "CAMILLE FOURNET",
+    "category": "Producteur"
+  },
+  {
+    "siret": "25330054500030",
+    "name": "SYNDICAT INTERCOMMUNAL DE L ENTRE DEUX MERS OUEST POUR LA COLLECTE ET LE TRAITEMENT DES ORDURES MENAGERES",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "40334373400048",
+    "name": "SAINT LAURENT METAUX",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "81104136700020",
+    "name": "NEOECO DEVELOPPEMENT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38068827500045",
+    "name": "VALPES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "75404961700014",
+    "name": "FEREC ENVIRONNEMENT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844213938",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51818263900055",
+    "name": "PETERCEM",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41419477900016",
+    "name": "EG METAUX",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "34886259000018",
+    "name": "HYPERION MATERIALS & TECHNOLOGIES (FRANCE) S.A.S",
+    "category": "Producteur"
+  },
+  {
+    "siret": "82789084900017",
+    "name": "INAX",
+    "category": "Producteur"
+  },
+  {
+    "siret": "79074287800016",
+    "name": "OPTIMISATION SERVICES ENVIRONNEMENT",
+    "category": "Négociant"
+  },
+  {
+    "siret": "39951207800011",
+    "name": "TENCATE ADVANCED ARMOUR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48933290800057",
+    "name": "COOPER-STANDARD FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51318258400021",
+    "name": "KILLER PRICE EQUIPEMENT LA LOCOMOTIVA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "79018467500961",
+    "name": "BUREAU VERITAS EXPLOITATION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34950537000040",
+    "name": "SANOFI PASTEUR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40123986800011",
+    "name": "MAISON MENISSEZ",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42453649800027",
+    "name": "RHONE ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39494568700025",
+    "name": "SARL ASSAINISSEMENT SCARPONAIS",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "88344353300012",
+    "name": "JB GLOMAUD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49286567000086",
+    "name": "PARC EOLIEN DE SARRY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39287041600022",
+    "name": "FUSSY PIECES AUTOS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48908926800036",
+    "name": "LAV'ALIM",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844212633",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84419393800017",
+    "name": "TENCHAINS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53412840000023",
+    "name": "D3E' A",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "87946843700014",
+    "name": "HDF ENVIRONNEMENT",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "87946843700022",
+    "name": "HDF ENVIRONNEMENT",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "94575213700915",
+    "name": "EIFFAGE ENERGIE SYSTEMES - CLEMESSY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41960007700012",
+    "name": "BRIANE ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "55208131773577",
+    "name": "ELECTRICITE DE FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33993940700021",
+    "name": "SOC ABATTEURS QUIMPEROIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42461587000021",
+    "name": "LAPLAGNE FLUID'INDUSTRIES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "50077803000170",
+    "name": "A.E.D.EXPERTISES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53113917800028",
+    "name": "TRACE DEPOLLUTION RECYCLAGE",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "82347685800027",
+    "name": "MANAGEMENT CONSEIL DEPOLLUTION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33990608300037",
+    "name": "ISOLBAT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39201918800029",
+    "name": "VALENTIN TRAITEUR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "80834937700016",
+    "name": "CGF",
+    "category": "Producteur"
+  },
+  {
+    "siret": "45249692000011",
+    "name": "SERVICES MOULES GLASS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52942893000018",
+    "name": "CABINET INFIRMIER",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35170145300075",
+    "name": "ALPES ASSAINISSEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "25300132500039",
+    "name": "S.M.I.C.T.O.M. RHONE-GARRIGUES",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "43388524100136",
+    "name": "ONYX LANGUEDOC ROUSSILLON",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "32894769200021",
+    "name": "ARC EN CIEL SERIGRAPHIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "80255794200017",
+    "name": "VALEOR",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "82861551800010",
+    "name": "PLATEFORME DE SERVICES NOE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "88134828800013",
+    "name": "PHOENIX",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33558080900598",
+    "name": "WALBAUM",
+    "category": "Producteur"
+  },
+  {
+    "siret": "80178381200028",
+    "name": "AD AGIO PROPRETE",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "05650046500077",
+    "name": "COQUAND",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52514236000029",
+    "name": "FUCHS RECUPERATION RECYCLAGE TRAVAUX FERROVIAIRES",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "88322657300011",
+    "name": "ENVIROFRANCE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "42408482000028",
+    "name": "ADOUR DEBOUCHAGE ASSAINISSEMENT",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "38206903700010",
+    "name": "C.SERRAND",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "80903246900011",
+    "name": "KERAKOLL FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30807763500024",
+    "name": "KEOLIS LYON",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33092737700011",
+    "name": "SPECIAL BRIDES SERVICE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "69732053900052",
+    "name": "SOC INDUSTRIEL CONDITIONNEMENT OPTIMISE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53812595600028",
+    "name": "UNILIN INSULATION SURY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31356484100150",
+    "name": "BECK EXPORT AUTOMOBILE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42875310700021",
+    "name": "ENDUIPAINT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35102587900013",
+    "name": "LABORATOIRE ARILAND",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32970324300066",
+    "name": "DEFI IMPRIMERIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844204721",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844203202",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844204754",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844204762",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844201099",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844201081",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844201107",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844204630",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844203632",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844214274",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844206262",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844203608",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844203392",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844203376",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844206270",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844213094",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844211114",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844211106",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844214555",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844211304",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844210546",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844209886",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844209894",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844212732",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844209910",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44460844200067",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "81012968400025",
+    "name": "BAUDELET",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "44079485700035",
+    "name": "REMEA",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "84853380800020",
+    "name": "LB METAUX",
+    "category": "Négociant"
+  },
+  {
+    "siret": "44460844214563",
+    "name": "ENEDIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42925237200025",
+    "name": "METIS BIOTECHNOLOGIES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "47784741200038",
+    "name": "BIO-STERIL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38306660200038",
+    "name": "GALLOO FRANCE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "31664471500039",
+    "name": "ECONOMIE TECHNIQUE ASSISTANCE CONSTRUCT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "75381371600010",
+    "name": "OLLI-B ENVIRONNEMENT",
+    "category": "Négociant"
+  },
+  {
+    "siret": "31968129200029",
+    "name": "SEC TP",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "62204242200866",
+    "name": "YARA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32623317800044",
+    "name": "SOC JEAN MELI",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "34876198200019",
+    "name": "ETABLISSEMENTS MARCELPOIL",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "42119573600010",
+    "name": "VACHEZ INDUSTRIE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "20005939200015",
+    "name": "CC BIEVRE ISERE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "84289555900016",
+    "name": "POLY TO POLY",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "30228086200046",
+    "name": "ADESIA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "87080195800030",
+    "name": "BARBAZANGES TRI OUEST",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33430382300085",
+    "name": "DALKIA WASTENERGY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30515140900029",
+    "name": "DIAGNOSTICA STAGO",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30250814800020",
+    "name": "ETABLISSEMENTS MARCEL BAYLE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84372141600017",
+    "name": "CHARTRES METROPOLE TRAITEMENT ET VALORISATION",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "49358671300023",
+    "name": "ADVISEOS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40334373400063",
+    "name": "SAINT LAURENT METAUX",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "33777110900010",
+    "name": "ASSOCIATION MAYENNAISE TRAVAIL ADAPTE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "30154752700038",
+    "name": "PMFR GENEBAULT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41208222400079",
+    "name": "BROCELIANDE - ALH",
+    "category": "Producteur"
+  },
+  {
+    "siret": "88635012300032",
+    "name": "ETABLISSEMENTS THEVENON",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39195574700111",
+    "name": "TRIADE ELECTRONIQUE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33018850900021",
+    "name": "SOCIETE ANONYME DES PAPETERIES DE BEGLES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39195574700061",
+    "name": "TRIADE ELECTRONIQUE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39195574700087",
+    "name": "TRIADE ELECTRONIQUE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39195574700152",
+    "name": "TRIADE ELECTRONIQUE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39195574700103",
+    "name": "TRIADE ELECTRONIQUE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "51316659500019",
+    "name": "SAINT JEAN INDUSTRIES LAVAL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31573284200424",
+    "name": "SEDE ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31573284200515",
+    "name": "SEDE ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31573284200606",
+    "name": "SEDE ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31573284200572",
+    "name": "SEDE ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31573284200473",
+    "name": "SEDE ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31573284200457",
+    "name": "SEDE ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31573284200713",
+    "name": "SEDE ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "88575016600039",
+    "name": "MACH 1",
+    "category": "Producteur"
+  },
+  {
+    "siret": "37800985600014",
+    "name": "ETS LAFON",
+    "category": "Négociant"
+  },
+  {
+    "siret": "40766205500018",
+    "name": "CLEAN 33",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "41389345400046",
+    "name": "RESOCLEAN  EUROPE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "81032513400015",
+    "name": "SAS DABEC",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "42238216800017",
+    "name": "OSIRIS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "51042548100031",
+    "name": "ANNE-MARIE PIOUD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "77560929000074",
+    "name": "BISCOTTE PASQUIER",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43266785500014",
+    "name": "MACHEIX IVC",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "75315466500016",
+    "name": "TCM BASTIN TOITS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "45820299100030",
+    "name": "GROUPE BERNARD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33124161200026",
+    "name": "LUCIEN BERNARD & CIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32729983000015",
+    "name": "MILLESIMA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31665591900033",
+    "name": "SOBOVI",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33124161200018",
+    "name": "LUCIEN BERNARD & CIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83326155500019",
+    "name": "URBYN",
+    "category": "Négociant"
+  },
+  {
+    "siret": "80418052900021",
+    "name": "GLOBAL TEAM +",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "52309048800033",
+    "name": "G2D2",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "34906260400013",
+    "name": "ENTREPRISE T.P LACASSAGNE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "82898843600014",
+    "name": "ELCA COMPOSITES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "71200027200021",
+    "name": "LIGIER GROUP",
+    "category": "Producteur"
+  },
+  {
+    "siret": "79250555400024",
+    "name": "DASTRI",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39478192600024",
+    "name": "SARL MECANIQUE AGRICOLE CROZET",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39478192600032",
+    "name": "SARL MECANIQUE AGRICOLE CROZET",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52500450300021",
+    "name": "BIG BAG 'N GO",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "40387242700048",
+    "name": "A L V S",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38215094400025",
+    "name": "IPACKCHEM SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "50024246600026",
+    "name": "THOMAS SANSON",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "41848970400019",
+    "name": "JCE BIOTECHNOLOGY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31328282400017",
+    "name": "SOCIETE DES MATERIAUX DE BERCHERES LES PIERRES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "25330057800015",
+    "name": "SYNDICAT MIXTE POUR LA COLLECTE ET LE TRAITEMENT DES ORDURES MENAGERES (SICTOM) DU SUD GIRONDE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38256805300021",
+    "name": "RECYTECH SA",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33356672700017",
+    "name": "HUSSOR SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "21880372400010",
+    "name": "COMMUNE DE RAON L'ETAPE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "40322731700019",
+    "name": "VENATOR PIGMENTS FRANCE SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34818173600011",
+    "name": "CRODA CHOCQUES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "78545315000043",
+    "name": "SGI SOCIETE DE GALVANOPLASTIE INDUSTRIELLE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "99826921100400",
+    "name": "SAINT GOBAIN GLASS FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44354359000055",
+    "name": "DIGITAL DC SYSTEME",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38016084600057",
+    "name": "EGGER PANNEAUX ET DECORS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "35409512700032",
+    "name": "EUROGLAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43276414000070",
+    "name": "PAPREC D3E",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "82346172800029",
+    "name": "ATMN INDUSTRIE",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "80380679300011",
+    "name": "OREADE SAS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "57219612900199",
+    "name": "LEBRONZE ALLOYS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "95450694500029",
+    "name": "ETS CHARDON ET COUCHOUD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42191872300014",
+    "name": "E. COMPAGNIE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "31963279000436",
+    "name": "ARKEMA FRANCE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "60282089600010",
+    "name": "SCHRADER",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38863689600010",
+    "name": "AMPHENOL FCI BESANCON",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39449954500025",
+    "name": "ALLIANCE INDUSTRIELLE METALLURGIQUE DE LA MAYENNE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35370665800039",
+    "name": "SOCIETE LYONNAISE DE FONTE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "37280125800065",
+    "name": "SOCIETE AUTOCORNY",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "75325135400043",
+    "name": "BEYNAT ROCHE ENERGIES",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "36780140400206",
+    "name": "FM FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000154",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000261",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000543",
+    "name": "ARKEMA FRANCE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31963279000923",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33211009700158",
+    "name": "BOSTIK SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000956",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44776163600029",
+    "name": "ADHESIFS ET COMPOSITES POLYMERS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38907074900046",
+    "name": "DEN BRAVEN FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "98612018600028",
+    "name": "MLPC INTERNATIONAL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "98612018600010",
+    "name": "MLPC INTERNATIONAL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000238",
+    "name": "ARKEMA FRANCE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33211009700075",
+    "name": "BOSTIK SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000055",
+    "name": "ARKEMA FRANCE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38843217100022",
+    "name": "ALTUGLAS INTERNATIONAL SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33211009700190",
+    "name": "BOSTIK SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000881",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000899",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "54378033200028",
+    "name": "FONDERIE P. BOISSON FILS ET COMPAGNIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000733",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000246",
+    "name": "ARKEMA FRANCE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31963279000931",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000196",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "62201950300045",
+    "name": "PCAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "77813049200078",
+    "name": "IMERYS ALUMINATES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "24360032700015",
+    "name": "CHATEAUROUX METROPOLE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "55208131721980",
+    "name": "ELECTRICITE DE FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33813473700034",
+    "name": "SARL PIONEER GENETIQUE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32838559600015",
+    "name": "FDL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38975526500011",
+    "name": "CM QUARTZ",
+    "category": "Producteur"
+  },
+  {
+    "siret": "82172358200010",
+    "name": "FABB21",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34395626400026",
+    "name": "SOTOCHROME",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "20006850000012",
+    "name": "COMMUNAUTE D'AGGLOMERATION DE CAMBRAI",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "42336176500013",
+    "name": "I.S.P. GRAND-COURONNE SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43322535600065",
+    "name": "BARILLA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000212",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32626222700027",
+    "name": "TORAY CARBON FIBERS EUROPE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32626222700084",
+    "name": "TORAY CARBON FIBERS EUROPE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34277866900024",
+    "name": "CENTRE DE DECONSTRUCTION AUTOMOBILE DE LA COTE BASQUE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39301149900042",
+    "name": "STI FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31688318000036",
+    "name": "SIMAIR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "03702063300014",
+    "name": "COMPAGNIE GENERALE CAGNOISE AUTOMOBILE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "40318434400014",
+    "name": "SAUNIER DUVAL EAU CHAUDE CHAUF INDUSTRIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33211009700166",
+    "name": "BOSTIK SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "65552014600094",
+    "name": "PROVENCALE SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "88165020400020",
+    "name": "CASSE AUTO TAPONNAT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32626222700092",
+    "name": "TORAY CARBON FIBERS EUROPE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41224231500015",
+    "name": "PASSENAUD RECYCLAGE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "78159831300026",
+    "name": "AUTO DEMOLITION CENTRE-OUEST",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000188",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "24300064300086",
+    "name": "COMMUNAUTE AGGLO NIMES METROPOLE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39502890500010",
+    "name": "SOCIETE DE RECUPERATION ARIEGEOISE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "33050741900050",
+    "name": "HYPRED",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33050741900084",
+    "name": "HYPRED",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40352022400029",
+    "name": "HY-NUTRITION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "68665027600054",
+    "name": "LCB FOOD SAFETY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "45380626700010",
+    "name": "MECABRIVE INDUSTRIES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33578220700120",
+    "name": "CHARBONNEAUX BRABANT SA",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "37968416000011",
+    "name": "OUEST CASS",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "30160863400012",
+    "name": "ERAMET IDEAS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "49518726200045",
+    "name": "ITEC FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32358978800013",
+    "name": "ETABLISSEMENTS CHALUMEAU",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32319674100025",
+    "name": "ALAIN DECOMBE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "60675001600028",
+    "name": "SABLIERE DE BALAGNE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43272611500020",
+    "name": "RECYCL'AUTO PIECES NIMES",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "80777736200011",
+    "name": "VALOMETAL",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "51628009600012",
+    "name": "ETILAM",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83526537200010",
+    "name": "MYBEN",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "53753915700041",
+    "name": "MAUFFREY LORRAINE NORD",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "79065068300010",
+    "name": "SAS TROUILLET 85",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34368276100022",
+    "name": "SOCIETE J.R.",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32870500900111",
+    "name": "COMAU FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33211009700059",
+    "name": "BOSTIK SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53869504000112",
+    "name": "KEM ONE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43475414900038",
+    "name": "GREIF FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41762494700012",
+    "name": "SARL AFL-HONEYCOMB STRUCTURES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43235971900023",
+    "name": "BRICQ",
+    "category": "Producteur"
+  },
+  {
+    "siret": "50725037100055",
+    "name": "L HOTELLIER",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38401843800075",
+    "name": "LANGUEDOC ROUSSILLON MATERIAUX",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33483554300029",
+    "name": "CAMPA SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "58595029800018",
+    "name": "SA PAPETERIES D'ESPALY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38931619100037",
+    "name": "TOYO INK EUROPE SPECIALTY CHEMICALS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "82824469900017",
+    "name": "ECORECEPT",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "43881012900025",
+    "name": "VALEO MATERIAUX DE FRICTION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38921885000060",
+    "name": "SPEICHIM PROCESSING",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38921885000052",
+    "name": "SPEICHIM PROCESSING",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38921885000037",
+    "name": "SPEICHIM PROCESSING",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "31083719000019",
+    "name": "SOC REUNION PRODUITS PETROLIERS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43355057100023",
+    "name": "M2I SALIN",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49755526800026",
+    "name": "RNSA LABORATOIRE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32290407900058",
+    "name": "IMMUNOTECH",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38398687400014",
+    "name": "COOPERL ARC ATLANTIQUE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "96750469700566",
+    "name": "BOIRON",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000428",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "97150907000027",
+    "name": "SOCIETE COATEX",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000832",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33211009700034",
+    "name": "BOSTIK SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31963279000493",
+    "name": "ARKEMA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44825225400025",
+    "name": "PROCHIMIR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44119343000010",
+    "name": "COUTAND RECUPERATION ET SERVICES",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "65202142900038",
+    "name": "BRASSERIE LORRAINE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42864547700020",
+    "name": "N7 AUTO PIECES",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "75001280900026",
+    "name": "AALYAH RECYCLAGE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "85260705000014",
+    "name": "ISSY URBASER ENERGIE SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "54635007500026",
+    "name": "SOC ETUDE REALISATION TECHNIQUE APPLIQUE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42228223600047",
+    "name": "BETON ET AGREGATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "78162005900076",
+    "name": "ETABLISSEMENTS J. MENUT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "32286428100017",
+    "name": "TANNERIE F ARNAL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "71542010500051",
+    "name": "MINAKEM DUNKERQUE PRODUCTION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44897984900172",
+    "name": "SUEZ RV OSIS FM",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "41494779600044",
+    "name": "VALLOUREC UMBILICALS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32362306600020",
+    "name": "LES ATELIERS ELECTRONIQUES DE LA LOIRE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "57209969500171",
+    "name": "CARGILL FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "79925539300016",
+    "name": "MEDLINE ASSEMBLY FRANCE SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "54203685000056",
+    "name": "VISKASE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84429226800019",
+    "name": "PULSYN",
+    "category": "Producteur"
+  },
+  {
+    "siret": "78162005900092",
+    "name": "ETABLISSEMENTS J. MENUT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "78162005900035",
+    "name": "ETABLISSEMENTS J. MENUT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "78162005900050",
+    "name": "ETABLISSEMENTS J. MENUT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "78162005900068",
+    "name": "ETABLISSEMENTS J. MENUT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "78162005900084",
+    "name": "ETABLISSEMENTS J. MENUT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "95851002600031",
+    "name": "TABARD AUTOS DEMOLITION TAD",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "55200596901090",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55200596900589",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53333074200016",
+    "name": "FLOAXE ENVIRONNEMENT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32017955900028",
+    "name": "GROUP ELIMINAT RESIDUS POLLUANTS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "42254289400015",
+    "name": "CIZERON BIO SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39200507000017",
+    "name": "SOCIETE PATRICK TUBERT",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "50227286700016",
+    "name": "AUTO DEMOLITION CHINIARD",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "88568015700157",
+    "name": "PPG AC-GRAND PUBLIC",
+    "category": "Producteur"
+  },
+  {
+    "siret": "57202803300106",
+    "name": "MERCK SANTE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "78994487300031",
+    "name": "U-SHIN FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "05781902100015",
+    "name": "SOCIETE DES CARRIERES ET BETON B.BRONZO ET SES FILS EN ABREGE \"CARRIERES BRONZO\"",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38970414900027",
+    "name": "SGL CARBON SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34484499800023",
+    "name": "AKWEL SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35017920600031",
+    "name": "ATELIERS FOUESNANTAIS (Ecotri)",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "51901187800021",
+    "name": "CORPLEX FRANCE KAYSERSBERG",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38413785700031",
+    "name": "SIGVARIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "95034433300022",
+    "name": "VALEO VISION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44153071400027",
+    "name": "O.V.E",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "41248354700045",
+    "name": "HM13",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "46620333800085",
+    "name": "DISTILLERIE DILLON",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55201683400053",
+    "name": "LIEBHERR-AEROSPACE TOULOUSE SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52012090800014",
+    "name": "LE CHROME DUR S.N.",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31789665200052",
+    "name": "ENTREPRISE PICHETA",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "34024244500039",
+    "name": "SEVP 2 A",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "34024244500013",
+    "name": "SEVP 2 A",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "70980433000021",
+    "name": "AVENYR",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "52788711100021",
+    "name": "AXIOMAUTO",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "35251224800019",
+    "name": "DUPAS",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "49910204400017",
+    "name": "JAMOT",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "57223241100544",
+    "name": "SIKA FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38880473400019",
+    "name": "M2S MECANO SOUDURE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "61201326800133",
+    "name": "APERAM ALLOYS AMILLY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42123283600013",
+    "name": "VIALLON EMBALLAGE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44259589800010",
+    "name": "COGETRAD INDUSTRIES",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "39906857600012",
+    "name": "INTEREP",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55200596901330",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55200596900969",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55200596901272",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55200596901314",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "96950413300063",
+    "name": "FIDUCIAL OFFICE SOLUTIONS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "97578019800084",
+    "name": "CARRIERES DE LA SEINE-MARITIME",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55200596901033",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55200596901413",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "54209559100450",
+    "name": "RUBIS ANTILLES GUYANE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55200596900266",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55200596900191",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55200596900571",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55200596900548",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55200596901298",
+    "name": "CEMEX GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35550117200025",
+    "name": "UNIFER ENVIRONNEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "82978783700014",
+    "name": "FIMA ENVIRONNEMENT",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "81371780800014",
+    "name": "VALORDIS SAS",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "40359689300038",
+    "name": "GOAVEC ENGINEERING",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39918636000018",
+    "name": "SNAUTO PIECES 59",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "34967725200034",
+    "name": "SCHÜTZ - IRA",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "42818575500025",
+    "name": "ONLY CUT-AFFUTAGE DIFFUSION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "57219612900124",
+    "name": "LEBRONZE ALLOYS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "57219612900132",
+    "name": "LEBRONZE ALLOYS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "75044780700033",
+    "name": "ANALYZAIR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44846157400023",
+    "name": "IT-SIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42328546900023",
+    "name": "ARD DROUHOT",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "33102556900061",
+    "name": "APAVE NON DESTRUCTIVE TESTING",
+    "category": "Producteur"
+  },
+  {
+    "siret": "66362014400035",
+    "name": "IMPRIMERIE MAX PERRIN SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "85094964500012",
+    "name": "GREENWAY-LCM",
+    "category": "Négociant"
+  },
+  {
+    "siret": "67920028700010",
+    "name": "ARMOR PROTEINES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44032669200025",
+    "name": "APERAM ALLOYS IMPHY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38474856200020",
+    "name": "CARRIERES RAULET",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53816553100012",
+    "name": "C.A.P.  INDUSTRIES",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "78468949900068",
+    "name": "ARCELORMITTAL TUBULAR PRODUCTS HAUTMONT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34879931300013",
+    "name": "EXTRUSION SERVICES",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "42050874900033",
+    "name": "CENTRE ENFOUISSEMENT TECHNIQUE IROISE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "49213336800026",
+    "name": "SAVERPLUS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31291390800025",
+    "name": "ETABLISSEMENTS CHAZALLON",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41028597700014",
+    "name": "ESTEVE RECYCLAGE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "63205019100162",
+    "name": "TIMAC AGRO",
+    "category": "Producteur"
+  },
+  {
+    "siret": "77560146100053",
+    "name": "REVETEM",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51007244000033",
+    "name": "STOW FIRMINY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44139659500031",
+    "name": "INSTITUT DE LA CORROSION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52990449200038",
+    "name": "DEPAN'EX",
+    "category": "Producteur"
+  },
+  {
+    "siret": "56080046800020",
+    "name": "MIDI PYRENEES GRANULATS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42078212000018",
+    "name": "CASSE AUTO 114",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "96150256400050",
+    "name": "F M I PROCESS SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "47970117900109",
+    "name": "SMURFIT KAPPA PAPIER RECYCLE FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "64204389700023",
+    "name": "CREALIS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33848195500023",
+    "name": "SAFRAN HELICOPTER ENGINES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "80859991400013",
+    "name": "USIMECA PROD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "81227328200010",
+    "name": "INSTITUT DENOF - CONSEIL ET RENFORCEMENT DES CAPACITES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52172227200015",
+    "name": "AUBORD RECYCLAGE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "78911286900019",
+    "name": "MECH ' CREATION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33826940000010",
+    "name": "MCC MONTAGNY FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44157916600014",
+    "name": "TPC INDUSTRIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52433494300346",
+    "name": "VEOLIA EAU D'ILE DE FRANCE SNC",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42316962200028",
+    "name": "LACTINOV BRAINE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44033591700066",
+    "name": "CV PACK",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48479544800030",
+    "name": "P L I INTERNATIONAL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34340353103351",
+    "name": "COLLECTES VALORISATION ENERGIE DECHETS - COVED",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "44156376400022",
+    "name": "OSILUB",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "52490060200029",
+    "name": "IMPRIMERIE DESPESSE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "47952229400012",
+    "name": "EUR DE CONTROLE METALLURGIQUE FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "47952229400053",
+    "name": "EUR DE CONTROLE METALLURGIQUE FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32198583000033",
+    "name": "APPAREILLAGE CONTROL MESUR ELECT SCHUNTS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34240874700018",
+    "name": "ALLRIM",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41082458500047",
+    "name": "FLINT GROUP FRANCE SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49783231100029",
+    "name": "JFC SERVICE AGRICOLE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "88645022000027",
+    "name": "ETABLISSEMENTS JAUBERT GAYET",
+    "category": "Producteur"
+  },
+  {
+    "siret": "50187315200018",
+    "name": "AUTO STOP DEMOLITION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43151359700010",
+    "name": "SARL EDECIMO RECUPERATION",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "44122408600013",
+    "name": "MATERIEL D'ELEVAGE FOREZIEN",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40070706300014",
+    "name": "LUTERMAX",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53846586500011",
+    "name": "HOWA TRAMICO",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39882711300216",
+    "name": "EIFFAGE ROUTE CENTRE EST",
+    "category": "Producteur"
+  },
+  {
+    "siret": "58450018500163",
+    "name": "ETABLISSEMENTS CHARLES FRERES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48346113300025",
+    "name": "LES ATELIERS DE JARICHO",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30499266200052",
+    "name": "DEVEILLE SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42882285200086",
+    "name": "ETABLISSEMENT FRANCAIS DU SANG",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38012986646850",
+    "name": "ORANGE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42277432300022",
+    "name": "GARAGE BONNIER",
+    "category": "Producteur"
+  },
+  {
+    "siret": "45088922500014",
+    "name": "SOREGIES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52572118900013",
+    "name": "SAVERGLASS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35169024300016",
+    "name": "R.V.A",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "41044884900050",
+    "name": "AVIPUR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41044884900076",
+    "name": "AVIPUR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38012986619626",
+    "name": "ORANGE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "80232467300036",
+    "name": "STRATUS HEALTH & BEAUTY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44955844400021",
+    "name": "S G C TRAVAUX SPECIAUX",
+    "category": "Producteur"
+  },
+  {
+    "siret": "62203708300285",
+    "name": "RHODIA OPERATIONS( Solvay RICL)",
+    "category": "Producteur"
+  },
+  {
+    "siret": "96850401900033",
+    "name": "FRANCE SALAISONS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "77572139200386",
+    "name": "SEVIA",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "88871185000014",
+    "name": "NOVALIS TRANSPORT BIOLOGIQUE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "80894087800016",
+    "name": "SAS CHALLENGE CONCEPTION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83373765300026",
+    "name": "ALTAROAD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48873238900058",
+    "name": "OVALIS ENVIRONNEMENT",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "34770466000039",
+    "name": "ROQUETTE VIC SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41044884900068",
+    "name": "AVIPUR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "88605017800013",
+    "name": "LAITERIE DU FOREZ",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49402440900224",
+    "name": "GAIA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "50264025300014",
+    "name": "MS PRO",
+    "category": "Producteur"
+  },
+  {
+    "siret": "79708085000135",
+    "name": "SA EAUX MINERALES EVIAN",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35271519700054",
+    "name": "EUROSTAMP",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49321951300048",
+    "name": "GENIE MECA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38306660200202",
+    "name": "GALLOO FRANCE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "38306660200103",
+    "name": "GALLOO FRANCE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38203431200027",
+    "name": "GALLOO CHAUNY",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "30944523700030",
+    "name": "FOREZIENNE - M.F.L.S.",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53280908400017",
+    "name": "ART AUTOMOBILES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44244271100028",
+    "name": "SAS FOURCHET PATRICK",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43480917400015",
+    "name": "AUTO PIECES GIBAND PEYRACHE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "41473036600039",
+    "name": "SCIE LOIRE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "47854675700012",
+    "name": "MG AUTOS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44032732800025",
+    "name": "ADS IDF NORD",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "32634527900029",
+    "name": "CARTONNERIE DE L ONDAINE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "45043872600041",
+    "name": "PLANET MONETIC",
+    "category": "Producteur"
+  },
+  {
+    "siret": "81456308600028",
+    "name": "LOIRE HYGIENE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51980422300021",
+    "name": "PASSION MENUISERIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33365748400015",
+    "name": "GALLOO SAINT GERMER",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "39481651600014",
+    "name": "CARROSSERIE DARAGON",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38158019000027",
+    "name": "EDITIONS SAINT JEAN CALENDRIERS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30832792300022",
+    "name": "SOCIETE D'EXPLOITATION DE TRANSPORT ET EVACUATION D'ORDURES",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "43393705900023",
+    "name": "ORLANDO GAILLARDET",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "49330985000011",
+    "name": "MAUVILAC",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41214090700079",
+    "name": "ASSA ABLOY FRANCE SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43352135800013",
+    "name": "MGHL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83270078500013",
+    "name": "STL USINAGE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "81527721500019",
+    "name": "R.E.D - RECYCLAGE ENVIRONNEMENT DECHETS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "35127212500029",
+    "name": "EURO NACRE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "37904139500029",
+    "name": "FRAMATOME",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32915312600035",
+    "name": "IDC-PRINT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38390339000045",
+    "name": "SOFRADEN INDUSTRIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "47814710100024",
+    "name": "MANEI LIFT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "45375979700013",
+    "name": "IMPRIMERIE RIZZI",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38816102800013",
+    "name": "SA FLAMME ASSAINISSEMENT",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "30648619200066",
+    "name": "SA GOREZ FRERES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42197147400018",
+    "name": "CHABANNE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33045739100028",
+    "name": "SCAELEC",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32145841600039",
+    "name": "ETS LAVENIR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35326001100021",
+    "name": "SUD OFFSET IMPRIMERIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84870764200015",
+    "name": "PRAD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "82416479200023",
+    "name": "KEOLIS LILLE METROPOLE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84132134200013",
+    "name": "TECLIS INSTRUMENTS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55450039700019",
+    "name": "JOINTS FOURNEL ET GARNIER",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55450039700027",
+    "name": "JOINTS FOURNEL ET GARNIER",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55450039700043",
+    "name": "JOINTS FOURNEL ET GARNIER",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38813101300061",
+    "name": "SUEZ WTS FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51864046100019",
+    "name": "MELI PIECES AUTO",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "58202628200027",
+    "name": "LES MENUISERIES DU CENTRE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "81334635000024",
+    "name": "KERANOVA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33487372600635",
+    "name": "PROXISERVE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "79203423300033",
+    "name": "EDOVA ENVIRONNEMENT EST",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "48250707600024",
+    "name": "JOHAN MALGAT",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "51789464800016",
+    "name": "CG AUTO DEMOLITION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52900768400028",
+    "name": "LINAMAR MONTFAUCON TRANSMISSION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35252987900012",
+    "name": "GIOLITTO G.PHOTOGRAVURE DE CHAMPFLEURI",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84973935400017",
+    "name": "M.SELGA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40801872900017",
+    "name": "CALARD FRERES",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "43884893900023",
+    "name": "3 BAIES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83173824000017",
+    "name": "MECAGRI 42",
+    "category": "Producteur"
+  },
+  {
+    "siret": "13002170200050",
+    "name": "CHAMBRE DE COMMERCE ET D'INDUSTRIE LYON METROPOLE-SAINT-ETIENNE ROANNE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "84184543100037",
+    "name": "RD RESSOURCES ET DEVELOPPEMENT",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "51135334400027",
+    "name": "SETFORGE EXTRUSION SOCIETE NOUVELLE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83112962200021",
+    "name": "REBATTERY INTERNATIONAL GROUP",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "51420352000028",
+    "name": "ALEXANDRE GAILLOT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "58450229800022",
+    "name": "TRESSE METALLIQUE J. FORISSIER",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40226823900017",
+    "name": "STARRAG S.A.S",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38041112400056",
+    "name": "SOC DE FABRICATION ELECTRONIQUE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33533945300037",
+    "name": "STANDING CONCEPT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "81329406300017",
+    "name": "RECYC'AUTO",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "35331051900015",
+    "name": "CELDUC RELAIS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51853260100060",
+    "name": "VERDIPOLE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "35331036000014",
+    "name": "CELDUC TRANSFO",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43189975600024",
+    "name": "RAGT SEMENCES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48531096500028",
+    "name": "C2TEC CONTRECOLLAGES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38897569000016",
+    "name": "PLASTIQUES POPPELMANN FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39718008400014",
+    "name": "PAPREC AUVERGNE ECHALIER",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "33367358000036",
+    "name": "HUARD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42039917200022",
+    "name": "G T OUTILLAGES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32603595300032",
+    "name": "LOIRE ASCENCEURS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32047480200016",
+    "name": "LIVERSAIN PERE ET FILS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52522034900027",
+    "name": "NOVARESSORT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49203403800025",
+    "name": "DENIS BREURE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83395620400014",
+    "name": "ATILA 33",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "31260985200032",
+    "name": "SLEICO",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34361698300015",
+    "name": "ROGER RIMBAUD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30368786700026",
+    "name": "SEDIBEX",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "34103985700113",
+    "name": "SARP SUD-OUEST",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "95036129500021",
+    "name": "YVON MAU",
+    "category": "Producteur"
+  },
+  {
+    "siret": "79208133300017",
+    "name": "CONDAMIN VOIRIE ASSAINISSEMENT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "50768008000037",
+    "name": "MAINE COLLECTE VALORISATION",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "41462916200028",
+    "name": "EUROVIA MIDI-PYRENEES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30502462200014",
+    "name": "MARCOULY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41462916200036",
+    "name": "EUROVIA MIDI-PYRENEES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "57206768400702",
+    "name": "ROBERT BOSCH FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44953688700044",
+    "name": "GROLMAN",
+    "category": "Producteur"
+  },
+  {
+    "siret": "85260705000022",
+    "name": "ISSY URBASER ENERGIE SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "88565047300014",
+    "name": "DESGRANGES OUTILS COUPANTS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "80524925700025",
+    "name": "SARL KSK RECYCLAGE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "30397038800011",
+    "name": "BAIKOWSKI",
+    "category": "Producteur"
+  },
+  {
+    "siret": "49819661700019",
+    "name": "LE CUNFF-LUCAS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "77560248500390",
+    "name": "ASS DEP AMIS PARENTS ENFANCE INADAP",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53848525100028",
+    "name": "JOSELITO CARANDANTE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "78994732200010",
+    "name": "BIO-RAD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39254696600038",
+    "name": "PYRAMID",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44237720600051",
+    "name": "GALLOO LITTORAL",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "44504289800020",
+    "name": "SCOP NEA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42350105500028",
+    "name": "FERRIOL-MATRAT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "51845714800014",
+    "name": "MECAXI",
+    "category": "Producteur"
+  },
+  {
+    "siret": "57221374200149",
+    "name": "ACIERS DE CONSTRUCTION RATIONALISES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "01705041000012",
+    "name": "TYCO ELECTRONICS SIMEL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "77734509100022",
+    "name": "ACIERIES ET LAMINOIRS DE PARIS ALPA",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "43409510500020",
+    "name": "EUROCOATINGS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31538530200023",
+    "name": "PRESS'VERCORS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40097119800066",
+    "name": "FOREZ NETTOYAGE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42343899300028",
+    "name": "ADVANCED CARRIER PRODUCTS SARL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41245166800039",
+    "name": "AVIPUR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34081028200038",
+    "name": "LAVATRANS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "88625009100180",
+    "name": "SICAREV",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41245166800047",
+    "name": "AVIPUR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42145440600099",
+    "name": "BOREALIS CHIMIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42145440600040",
+    "name": "BOREALIS CHIMIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42145440600032",
+    "name": "BOREALIS CHIMIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "94675098100015",
+    "name": "BOREALIS-PRODUITS ET ENGRAIS CHIMIQUES DU RHIN",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38779900000014",
+    "name": "JEAN MURON",
+    "category": "Producteur"
+  },
+  {
+    "siret": "88725043900049",
+    "name": "STE MONTBRISONNAISE DE T P",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34180351800016",
+    "name": "ENTREPRISE LOCHARD BEAUCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41127874000013",
+    "name": "RONDY FORESTIER SAS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "39922542400023",
+    "name": "SOC DECORATION INOX SDI",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43401105200090",
+    "name": "SOCIETE DES TECHNIQUES DE PROPRETE INDUSTRIELLE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83484443300013",
+    "name": "JERHOME",
+    "category": "Producteur"
+  },
+  {
+    "siret": "56207142300031",
+    "name": "UNIVAR SOLUTIONS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35081314300020",
+    "name": "PASCAL CARADOT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33183437400018",
+    "name": "PATRICK GENNESSON",
+    "category": "Producteur"
+  },
+  {
+    "siret": "37906838000011",
+    "name": "GAEC DE SAVIGNEUX",
+    "category": "Producteur"
+  },
+  {
+    "siret": "83913583700038",
+    "name": "IMC CREATIONS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "42993751900016",
+    "name": "TRANSDEV SAINT-ETIENNE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34077488400019",
+    "name": "SODECTRA SARL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48770970100022",
+    "name": "VALOMED",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "40405572500034",
+    "name": "CONCEPT' FRUITS",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48099873100016",
+    "name": "ACTIMAN LOCATION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "48099873100057",
+    "name": "ACTIMAN LOCATION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32256520100033",
+    "name": "PLAST EMBAL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40449047600052",
+    "name": "EIFFAGE DEMOLITION",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "40325860100026",
+    "name": "SOFEDIT LE THEIL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35314291200040",
+    "name": "AGENCE PARISIENNE DE SURVEILLANCE",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "51481274200021",
+    "name": "DETECT RESEAUX 69",
+    "category": "Producteur"
+  },
+  {
+    "siret": "85580182500628",
+    "name": "GEA REFRIGERATION FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "79999955200034",
+    "name": "BDR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "79999955200026",
+    "name": "BDR",
+    "category": "Producteur"
+  },
+  {
+    "siret": "47904859701185",
+    "name": "LOOMIS FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "32049793600015",
+    "name": "SNT-DURIEZ",
+    "category": "Producteur"
+  },
+  {
+    "siret": "34382431400029",
+    "name": "IML",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38306660200152",
+    "name": "GALLOO FRANCE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "38249807900039",
+    "name": "ETIGRAPH",
+    "category": "Producteur"
+  },
+  {
+    "siret": "95550921100012",
+    "name": "GIVAUDAN LAVIROTTE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38825775000033",
+    "name": "IMPRIMERIE MG",
+    "category": "Producteur"
+  },
+  {
+    "siret": "41457405300065",
+    "name": "SOLVAY OPERATIONS FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "55208131785431",
+    "name": "ELECTRICITE DE FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "80823460300021",
+    "name": "TGA",
+    "category": "Transporteur"
+  },
+  {
+    "siret": "51802348600013",
+    "name": "TMD EXPERTISES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40222248300016",
+    "name": "LES LABORATOIRES SERVIER INDUSTRIE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43946556800095",
+    "name": "ELIXENS FRANCE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "69880093500018",
+    "name": "BOMBARDIER TRANSPORT FRANCE S.A.S",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30137492200047",
+    "name": "BLEDINA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "38472794700069",
+    "name": "GRAPHIC TECHNIC IMAGE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "37870800200027",
+    "name": "SARL IMPRIMERIE SOUQUET",
+    "category": "Producteur"
+  },
+  {
+    "siret": "95650125800019",
+    "name": "BOCCARD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "33790682000051",
+    "name": "REGIONALE DE CANALISATIONS",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "34133805100046",
+    "name": "ARTHUR CUELLO",
+    "category": "Producteur"
+  },
+  {
+    "siret": "40499789200025",
+    "name": "AJC IMPRESSION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "35223683000027",
+    "name": "IMPRIMERIE GEORGES POUGNARD",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43040447500021",
+    "name": "POILANE DEMOLITION",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30389008100233",
+    "name": "CARDEM",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30389008100126",
+    "name": "CARDEM",
+    "category": "Producteur"
+  },
+  {
+    "siret": "50818282100019",
+    "name": "SOCIETE LA GRANDE JAUGUE",
+    "category": "Installation de traitement"
+  },
+  {
+    "siret": "41487961900016",
+    "name": "ARDO-VIOLAINES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "53323207000029",
+    "name": "BERNARDY",
+    "category": "Producteur"
+  },
+  {
+    "siret": "43489381400062",
+    "name": "ETS CHALEYER ET CANET",
+    "category": "Producteur"
+  },
+  {
+    "siret": "30284367700014",
+    "name": "ETS MAURICE RENOU SARL",
+    "category": "Producteur"
+  },
+  {
+    "siret": "52301430600022",
+    "name": "LORY JOUBERT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "69718045300030",
+    "name": "BUTIN - SEDIC",
+    "category": "Collecteur-regroupeur"
+  },
+  {
+    "siret": "58450046600035",
+    "name": "ATOMELEC SA",
+    "category": "Producteur"
+  },
+  {
+    "siret": "31587164001751",
+    "name": "IDEX ENERGIES",
+    "category": "Producteur"
+  },
+  {
+    "siret": "44101963500016",
+    "name": "BARAT TRANSPORT",
+    "category": "Producteur"
+  },
+  {
+    "siret": "79093030900014",
+    "name": "TOXIMAGE",
+    "category": "Producteur"
+  },
+  {
+    "siret": "20003225800010",
+    "name": "CERCLE DE LA BASE DE DEFENSE DE CAZAUX",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "43419497300013",
+    "name": "SECURIDIS",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "31278616300013",
+    "name": "AGPM ASSURANCES",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "55212022200716",
+    "name": "SOCIETE GENERALE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "12345678912345",
+    "name": "",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "77974215400031",
+    "name": "S.A.R.L. VERNAY ANTOINE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "56262077300704",
+    "name": "SINIAT",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "43758440200014",
+    "name": "MONACLEAN",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "61362008700015",
+    "name": "SIGMA COMPOSITE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "43478512700029",
+    "name": "JAKLE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "43530563600076",
+    "name": "TENNAXIA",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "44926920800020",
+    "name": "EVARISK",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "43310786900011",
+    "name": "",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "50149843000054",
+    "name": "ENGIE THERMIQUE FRANCE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "83302535600019",
+    "name": "",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "34220158900021",
+    "name": "SARL MAURICI",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "34351191100079",
+    "name": "ABSA CHRISTAL",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "52380816000023",
+    "name": "VERPILLIERE DISTRIBUTION",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "30613890001294",
+    "name": "DECATHLON",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "44450679400015",
+    "name": "REICHSTETT MATERIAUX",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "34340353102460",
+    "name": "COLLECTES VALORISATION ENERGIE DECHETS - COVED",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "11009001600046",
+    "name": "MINISTERE DES ARMEES",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "83949769000017",
+    "name": "SOLUWASTE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "48765063200192",
+    "name": "STORENGY FRANCE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "31499018500303",
+    "name": "EIFFAGE ENERGIE SYSTEMES - GAME INGENIERIE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "32167789000022",
+    "name": "SOCIETE D'EXPLOITATION ET DE REAMENAGEMENT DE LA FOSSE MARMITAINE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "20008774000011",
+    "name": "SYNDICAT DE L'ORGE, DE LA REMARDE ET DE LA PREDECELLE (SYORP)",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "12312312312312",
+    "name": "",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "42119660100015",
+    "name": "GRAPILA",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "44460844210264",
+    "name": "ENEDIS",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "78534716200030",
+    "name": "MECANINDUS",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "45172919800015",
+    "name": "CALLIAN",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "06150126800017",
+    "name": "CONSTRUCTIONS MECANIQUES DE L ISERE",
+    "category": "Inconnu"
+  },
+  {
+    "siret": "39972143000060",
+    "name": "A.D.N",
+    "category": "Inconnu"
+  }
+]
